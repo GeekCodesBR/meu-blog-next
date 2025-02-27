@@ -27,7 +27,7 @@ Este é um projeto de **blog estático** desenvolvido com **Next.js**, utilizand
 
 ```bash
 git clone https://github.com/GeekCodesBR/meu-blog-next.git
-cd blog-nextjs
+cd meu-blog-next
 📌 2. Instale as Dependências
 
 npm install
