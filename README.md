@@ -1,11 +1,6 @@
 # Blog Estático com Next.js
 Um blog estático moderno construído com Next.js para performance otimizada e carregamento rápido. Utiliza Markdown para gerenciamento de posts, suporta SSG (Static Site Generation) e é totalmente responsivo. Ideal para quem deseja um blog rápido, seguro e fácil de gerenciar.
 
-
-📜 README.md
-markdown
-Copiar
-Editar
 # 🚀 Blog Estático com Next.js
 
 Este é um projeto de **blog estático** desenvolvido com **Next.js**, utilizando **SSG (Static Site Generation)** para carregamento rápido e otimizado. O blog permite a criação de posts em **Markdown**, tornando a publicação simples e eficiente.
